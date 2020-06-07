@@ -397,7 +397,8 @@ percentage_labels
 
 Note: Of the 10,000 Bank Customer data provided, 20.37% of them Left the Bank 
 
-#### EDA: How does the provided data Features Correlate?
+## Exploratory Data Analysis
+#### How does the provided data Features Correlate?
 
 
 ```python
@@ -701,7 +702,7 @@ cust_data.describe()
 
 
 
-### Data Visualization
+## Data Visualization
 
 #### Distribution by Geographical Area
 
